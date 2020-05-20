@@ -91,7 +91,7 @@ font-size: medium;
 
 /*Images*/
 .img_1 {
-background-image: url();
+background-image: url(/assets/images/img_1);
 background-repeat: no-repeat;
 background-position: absolute;
 background-color: #fc4a1a;
