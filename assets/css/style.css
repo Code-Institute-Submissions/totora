@@ -94,7 +94,7 @@ font-size: medium;
 background-image: url();
 background-repeat: no-repeat;
 background-position: absolute;
-background-color: #dfdce3;
+background-color: #fc4a1a;
   width: 100%;
   padding: 20px;
 
@@ -102,8 +102,6 @@ background-color: #dfdce3;
 
 .img_2 {
 background-image: url(/assets/images/img_2.png);
-background-repeat: no-repeat;
-background-position: absolute;
 background-color: #fafafa;
 width: 100%;
 padding: 20px;
@@ -112,6 +110,16 @@ padding: 20px;
 
 .img_3 {
 background-image: url(/assets/images/img_3.png);
+background-repeat: no-repeat;
+background-position: absolute;
+background-color: #fafafa;
+width: 100%;
+padding: 20px;
+
+}
+
+.img_4 {
+background-image: url(/assets/images/img_4.png);
 background-repeat: no-repeat;
 background-position: absolute;
 background-color: #fafafa;
