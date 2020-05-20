@@ -94,10 +94,11 @@ font-size: medium;
 background-image: url(/assets/images/img_1.png);
 background-repeat: no-repeat;
 background-position: center;
-background-color:#fafafa;
+background-color:#fff;
 max-width: 100%;
 max-height: 100%;
 object-fit: cover;
+
 
 }
 
@@ -105,28 +106,55 @@ object-fit: cover;
 background-image: url(/assets/images/img_2.png);
 background-repeat: no-repeat;
 background-position: center;
-background-color: #fafafa;
+background-color: #fff;
 background-position: absolute;
 width: 100%;
 padding: 20px;
+
 
 }
 
 .img_3 {
 background-image: url(/assets/images/img_3.png);
 background-repeat: no-repeat;
+background-position: center;
+background-color: #fff;
 background-position: absolute;
-background-color: #fafafa;
 width: 100%;
 padding: 20px;
+
 
 }
 
 .img_4 {
 background-image: url(/assets/images/img_4.png);
 background-repeat: no-repeat;
+background-position: center;
+background-color: #fff;
 background-position: absolute;
-background-color: #fafafa;
+width: 100%;
+padding: 20px;
+
+
+}
+
+.img_5 {
+background-image: url(/assets/images/img_5.png);
+background-repeat: no-repeat;
+background-position: center;
+background-color: #fff;
+background-position: absolute;
+width: 100%;
+padding: 20px;
+
+}
+
+.img_6 {
+background-image: url(/assets/images/img_6.png);
+background-repeat: no-repeat;
+background-position: center;
+background-color: #fff;
+background-position: absolute;
 width: 100%;
 padding: 20px;
 
