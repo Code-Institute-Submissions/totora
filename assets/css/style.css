@@ -89,19 +89,45 @@ font-size: medium;
   padding: 20px;
 }
 
-/* Fake image, just for this example */
+/*Images*/
+.img_1 {
+background-image: url();
+background-repeat: no-repeat;
+background-position: absolute;
+background-color: #dfdce3;
+  width: 100%;
+  padding: 20px;
+
+}
+
+.img_2 {
+background-image: url(/assets/images/img_2.png);
+background-repeat: no-repeat;
+background-position: absolute;
+background-color: #fafafa;
+width: 100%;
+padding: 20px;
+
+}
+
+.img_3 {
+background-image: url(/assets/images/img_3.png);
+background-repeat: no-repeat;
+background-position: absolute;
+background-color: #fafafa;
+width: 100%;
+padding: 20px;
+
+}
+
+/*Fake Images until I have the final ones*/
 .fakeimg {
-  background-color: #aaa;
+  background-color: #dfdce3;
   width: 100%;
   padding: 20px;
 }
 
-.fakeimg_2 {
-background-image: url(/assets/images/sago-mini.png);
-background-repeat: no-repeat;
-background-color: #f7b733;
 
-}
 
 /* Footer */
 .footer {
