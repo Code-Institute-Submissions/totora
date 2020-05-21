@@ -4,15 +4,15 @@ Link to live deployed project:
 
 Technologies used:
 HTML and CSS.
-
+<br>
 Other resources used:
-Google Fonts
-Fontawesome
-https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_example_websitehttps://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/
-https://www.freecodecamp.org/news/how-to-center-things-with-style-in-css-dc87b7542689/
-https://github.community/
-https://es.stackoverflow.com/
+<br>
+<li>Google Fonts</li>
+<li>Fontawesome</li>
+<li>https://css-tricks.com/snippets/css/a-guide-to-flexbox/</li>
+<li>https://www.freecodecamp.org/news/how-to-center-things-with-style-in-css-dc87b7542689/</li>
+<li>https://github.community/</li>
+<li>https://es.stackoverflow.com/</li>
 
 
 Feature you want to add:
@@ -31,11 +31,12 @@ Samantha helped me with images and provided me the below links:
 A few links to get you started:
 https://www.tutorialrepublic.com/faq/how-to-auto-resize-an-image-to-fit-into-a-div-container-using-css.php
 https://www.w3schools.com/css/css3_object-fit.asp
+<br>
 And two solutions here:
 https://stackoverflow.com/questions/14142378/how-can-i-fill-a-div-with-an-image-while-keeping-it-proportional
 
 
-Tim helped me with https://gitpod.io/access-control/
+Tim helped me with: https://gitpod.io/access-control/
 
 
 Screenshots
@@ -46,7 +47,15 @@ Screenshots
 
 
 
-Info on testing and deploying project
+Info on testing and deploying project:
+Deploying was made using GitHub Pages. Once set up, deploying is automatic.
+
+Testing has been done on MacBook Pro (15", end of 2013), Google Chrome. 
+I have also used Inspect Element on Chrome to check responsiveness in iPad and iPhone.
+
+Also I have used the following validation services:
+<li>https://jigsaw.w3.org/css-validator/</li>
+<li>https://validator.w3.org/</li>
 
 Functionality you want to add:
 This is meant to be a really simple project.
