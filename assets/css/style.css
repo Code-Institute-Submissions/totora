@@ -103,7 +103,7 @@ font-size: medium;
 
 /*Images*/
 .img_1 {
-background-image: url(/assets/images/img_1.png);
+background-image: url(../images/img_1.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color:#fff;
@@ -115,7 +115,7 @@ object-fit: cover;
 }
 
 .img_2 {
-background-image: url(/assets/images/img_2.png);
+background-image: url(../images/img_2.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #fff;
@@ -127,7 +127,7 @@ padding: 20px;
 }
 
 .img_3 {
-background-image: url(/assets/images/img_3.png);
+background-image: url(../images/img_3.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #fff;
@@ -139,7 +139,7 @@ padding: 20px;
 }
 
 .img_4 {
-background-image: url(/assets/images/img_4.png);
+background-image: url(../images/img_4.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #fff;
@@ -151,7 +151,7 @@ padding: 20px;
 }
 
 .img_5 {
-background-image: url(/assets/images/img_5.png);
+background-image: url(../images/img_5.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #fff;
@@ -162,7 +162,7 @@ padding: 20px;
 }
 
 .img_6 {
-background-image: url(/assets/images/img_6.png);
+background-image: url(../images/img_6.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #fff;
@@ -173,7 +173,7 @@ padding: 20px;
 }
 
 .img_7 {
-background-image: url(/assets/images/img_7.png);
+background-image: url(../images/img_7.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #fff;
@@ -184,7 +184,7 @@ padding: 20px;
 }
 
 .img_8 {
-background-image: url(/assets/images/img_8.png);
+background-image: url(../images/img_8.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #fff;
@@ -195,7 +195,7 @@ padding: 20px;
 }
 
 .img_9 {
-background-image: url(/assets/images/img_9.png);
+background-image: url(../images/img_9.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #fff;
@@ -206,7 +206,7 @@ padding: 20px;
 }
 
 .img_10 {
-background-image: url(/assets/images/img_10.png);
+background-image: url(../images/img_10.png);
 background-repeat: no-repeat;
 background-position: center;
 background-color: #fff;
