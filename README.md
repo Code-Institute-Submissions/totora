@@ -1,39 +1,52 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+Link to live deployed project:
 
-Welcome Julia-IO,
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
 
-## Gitpod Reminders
+Technologies used:
+HTML and CSS.
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+Other resources used:
+Google Fonts
+Fontawesome
+https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_example_websitehttps://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+https://www.freecodecamp.org/news/how-to-center-things-with-style-in-css-dc87b7542689/
 
-`python3 -m http.server`
 
-A blue button should appear to click: *Make Public*,
+Feature you want to add:
+I want to better develop Apps and Educational Toys sections adding some videos and extra info.
+I also want to create a classification system (by Age, by skill, by subject, etc.)
 
-Another blue button should appear to click: *Open Browser*.
+Libreries imported:
+I didn't feel confident enough to use Bootstrap and I was not happy with the results when I tried so I kept it very simple.
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+Credit people 
+I have copied a lot to develop this website, so I need to thanks all the people involved in the creation and teaching of the Full Stack Software Development Program.
 
-A blue button should appear to click: *Make Public*,
+Specifically:
+Samantha helped me with images and provided me the below links:
 
-Another blue button should appear to click: *Open Browser*.
+A few links to get you started:
+https://www.tutorialrepublic.com/faq/how-to-auto-resize-an-image-to-fit-into-a-div-container-using-css.php
+https://www.w3schools.com/css/css3_object-fit.asp
+And two solutions here:
+https://stackoverflow.com/questions/14142378/how-can-i-fill-a-div-with-an-image-while-keeping-it-proportional
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
 
-## Updates Since The Instructional Video
+Tim helped me with https://gitpod.io/access-control/
 
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+Screenshots
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+![Website on iPhone](/assets/images/screenshot_1.png/)
+![Website on iPad] (/assets/images/screenshot_2.png/)
+! [Website on desktop] (/assets/images/screenshot_3.png/)
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+Info on testing and deploying project
 
---------
+Functionality you want to add:
+This is meant to be a really simple project.
 
-Happy coding!
+Bugs founds
+Images need to be better dealt with. A default size needs to be established so that all follow the same sizes and works well in different devices.
