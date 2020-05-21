@@ -11,6 +11,8 @@ Fontawesome
 https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_example_websitehttps://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 https://www.freecodecamp.org/news/how-to-center-things-with-style-in-css-dc87b7542689/
+https://github.community/
+https://es.stackoverflow.com/
 
 
 Feature you want to add:
@@ -39,8 +41,9 @@ Tim helped me with https://gitpod.io/access-control/
 Screenshots
 
 ![Website on iPhone](/assets/images/screenshot_1.png/)
-![Website on iPad] (/assets/images/screenshot_2.png/)
-! [Website on desktop] (/assets/images/screenshot_3.png/)
+![Website on iPhone](/assets/images/screenshot_2.png/)
+![Website on iPhone](/assets/images/screenshot_3.png/)
+
 
 
 Info on testing and deploying project
@@ -49,4 +52,6 @@ Functionality you want to add:
 This is meant to be a really simple project.
 
 Bugs founds
-Images need to be better dealt with. A default size needs to be established so that all follow the same sizes and works well in different devices.
+Images need to be better dealt with.
+A default size needs to be established so that all follow the same sizes and works well in different devices.
+Solution: need to develop images editing skills.
