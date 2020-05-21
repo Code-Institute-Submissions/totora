@@ -1,4 +1,8 @@
-Link to live deployed project:
+Link to live deployed project:<br>
+https://julia-io.github.io/totora/index.html
+
+Link to GitHub repository:<br>
+https://github.com/Julia-IO/totora
 
 
 
@@ -25,7 +29,8 @@ I didn't feel confident enough to use Bootstrap and I was not happy with the res
 Credit people 
 I have copied a lot to develop this website, so I need to thanks all the people involved in the creation and teaching of the Full Stack Software Development Program.
 
-Specifically:
+Specifically I asked 3 times for tutos assistnace and:
+
 Samantha helped me with images and provided me the below links:
 
 A few links to get you started:
@@ -37,6 +42,8 @@ https://stackoverflow.com/questions/14142378/how-can-i-fill-a-div-with-an-image-
 
 
 Tim helped me with: https://gitpod.io/access-control/
+
+Anna helped with getting my paths correct so that GitHub pages would 'like them'.
 
 
 Screenshots
